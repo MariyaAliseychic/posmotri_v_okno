@@ -37,11 +37,12 @@ ol {
   list-style: none;
 }
 .page {
-  margin: 133px 30px;
+  margin-top: 58px;
+  margin-left: 0px;
   display: flex;
   justify-content: center;
   align-items: center;
-  max-height: 800px;
+  
 }
 
 .content {
